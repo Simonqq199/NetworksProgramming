@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TJOh06CKYih6joEEgYXQyrmygT3zMMyQll7rtzzxxmF7fku117jgC6OMJe/+gIZ6LJT9IiqmzdPxDUJwrYJloA==",
+  "success": true,
+  "projectFilePath": "D:\\Studying\\A_Code_Space\\NT106_Lab04\\NT106_Lab04\\NT106_Lab04.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\minhs\\.nuget\\packages\\htmlagilitypack\\1.11.46\\htmlagilitypack.1.11.46.nupkg.sha512"
+  ],
+  "logs": []
+}

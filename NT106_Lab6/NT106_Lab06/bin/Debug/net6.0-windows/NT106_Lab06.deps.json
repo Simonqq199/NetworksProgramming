@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "NT106_Lab06/1.0.0": {
+        "runtime": {
+          "NT106_Lab06.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NT106_Lab06/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
