@@ -16,3 +16,21 @@ D:\Studying\A_Code_Space\LANTicTacToe\LANTicTacToe\obj\Debug\net6.0-windows\LANT
 D:\Studying\A_Code_Space\LANTicTacToe\LANTicTacToe\obj\Debug\net6.0-windows\LANTicTacToe.genruntimeconfig.cache
 D:\Studying\A_Code_Space\LANTicTacToe\LANTicTacToe\obj\Debug\net6.0-windows\ref\LANTicTacToe.dll
 D:\Studying\A_Code_Space\LANTicTacToe\LANTicTacToe\obj\Debug\net6.0-windows\LANTicTacToe.Properties.Resources.resources
+D:\Studying\Networks programming\NetworksProgramming\LANTicTacToe\LANTicTacToe\bin\Debug\net6.0-windows\LANTicTacToe.exe
+D:\Studying\Networks programming\NetworksProgramming\LANTicTacToe\LANTicTacToe\bin\Debug\net6.0-windows\LANTicTacToe.deps.json
+D:\Studying\Networks programming\NetworksProgramming\LANTicTacToe\LANTicTacToe\bin\Debug\net6.0-windows\LANTicTacToe.runtimeconfig.json
+D:\Studying\Networks programming\NetworksProgramming\LANTicTacToe\LANTicTacToe\bin\Debug\net6.0-windows\LANTicTacToe.dll
+D:\Studying\Networks programming\NetworksProgramming\LANTicTacToe\LANTicTacToe\bin\Debug\net6.0-windows\LANTicTacToe.pdb
+D:\Studying\Networks programming\NetworksProgramming\LANTicTacToe\LANTicTacToe\obj\Debug\net6.0-windows\LANTicTacToe.csproj.AssemblyReference.cache
+D:\Studying\Networks programming\NetworksProgramming\LANTicTacToe\LANTicTacToe\obj\Debug\net6.0-windows\LANTicTacToe.Form1.resources
+D:\Studying\Networks programming\NetworksProgramming\LANTicTacToe\LANTicTacToe\obj\Debug\net6.0-windows\LANTicTacToe.Properties.Resources.resources
+D:\Studying\Networks programming\NetworksProgramming\LANTicTacToe\LANTicTacToe\obj\Debug\net6.0-windows\LANTicTacToe.csproj.GenerateResource.cache
+D:\Studying\Networks programming\NetworksProgramming\LANTicTacToe\LANTicTacToe\obj\Debug\net6.0-windows\LANTicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studying\Networks programming\NetworksProgramming\LANTicTacToe\LANTicTacToe\obj\Debug\net6.0-windows\LANTicTacToe.AssemblyInfoInputs.cache
+D:\Studying\Networks programming\NetworksProgramming\LANTicTacToe\LANTicTacToe\obj\Debug\net6.0-windows\LANTicTacToe.AssemblyInfo.cs
+D:\Studying\Networks programming\NetworksProgramming\LANTicTacToe\LANTicTacToe\obj\Debug\net6.0-windows\LANTicTacToe.csproj.CoreCompileInputs.cache
+D:\Studying\Networks programming\NetworksProgramming\LANTicTacToe\LANTicTacToe\obj\Debug\net6.0-windows\LANTicTacToe.dll
+D:\Studying\Networks programming\NetworksProgramming\LANTicTacToe\LANTicTacToe\obj\Debug\net6.0-windows\refint\LANTicTacToe.dll
+D:\Studying\Networks programming\NetworksProgramming\LANTicTacToe\LANTicTacToe\obj\Debug\net6.0-windows\LANTicTacToe.pdb
+D:\Studying\Networks programming\NetworksProgramming\LANTicTacToe\LANTicTacToe\obj\Debug\net6.0-windows\LANTicTacToe.genruntimeconfig.cache
+D:\Studying\Networks programming\NetworksProgramming\LANTicTacToe\LANTicTacToe\obj\Debug\net6.0-windows\ref\LANTicTacToe.dll

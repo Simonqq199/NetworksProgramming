@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Studying\\A_Code_Space\\LANTicTacToe\\LANTicTacToe\\LANTicTacToe.csproj": {}
+    "D:\\Studying\\Networks programming\\NetworksProgramming\\LANTicTacToe\\LANTicTacToe\\LANTicTacToe.csproj": {}
   },
   "projects": {
-    "D:\\Studying\\A_Code_Space\\LANTicTacToe\\LANTicTacToe\\LANTicTacToe.csproj": {
+    "D:\\Studying\\Networks programming\\NetworksProgramming\\LANTicTacToe\\LANTicTacToe\\LANTicTacToe.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Studying\\A_Code_Space\\LANTicTacToe\\LANTicTacToe\\LANTicTacToe.csproj",
+        "projectUniqueName": "D:\\Studying\\Networks programming\\NetworksProgramming\\LANTicTacToe\\LANTicTacToe\\LANTicTacToe.csproj",
         "projectName": "LANTicTacToe",
-        "projectPath": "D:\\Studying\\A_Code_Space\\LANTicTacToe\\LANTicTacToe\\LANTicTacToe.csproj",
+        "projectPath": "D:\\Studying\\Networks programming\\NetworksProgramming\\LANTicTacToe\\LANTicTacToe\\LANTicTacToe.csproj",
         "packagesPath": "C:\\Users\\minhs\\.nuget\\packages\\",
-        "outputPath": "D:\\Studying\\A_Code_Space\\LANTicTacToe\\LANTicTacToe\\obj\\",
+        "outputPath": "D:\\Studying\\Networks programming\\NetworksProgramming\\LANTicTacToe\\LANTicTacToe\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\minhs\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -58,7 +58,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
         }
       }
     }
