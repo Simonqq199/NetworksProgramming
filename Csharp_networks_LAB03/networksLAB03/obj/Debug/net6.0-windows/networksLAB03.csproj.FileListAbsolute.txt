@@ -1,0 +1,33 @@
+D:\Studying\A_Code_Space\networksLAB03\networksLAB03\bin\Debug\net6.0-windows\networksLAB03.exe
+D:\Studying\A_Code_Space\networksLAB03\networksLAB03\bin\Debug\net6.0-windows\networksLAB03.deps.json
+D:\Studying\A_Code_Space\networksLAB03\networksLAB03\bin\Debug\net6.0-windows\networksLAB03.runtimeconfig.json
+D:\Studying\A_Code_Space\networksLAB03\networksLAB03\bin\Debug\net6.0-windows\networksLAB03.dll
+D:\Studying\A_Code_Space\networksLAB03\networksLAB03\bin\Debug\net6.0-windows\networksLAB03.pdb
+D:\Studying\A_Code_Space\networksLAB03\networksLAB03\obj\Debug\net6.0-windows\networksLAB03.csproj.AssemblyReference.cache
+D:\Studying\A_Code_Space\networksLAB03\networksLAB03\obj\Debug\net6.0-windows\networksLAB03.Form1.resources
+D:\Studying\A_Code_Space\networksLAB03\networksLAB03\obj\Debug\net6.0-windows\networksLAB03.Form2.resources
+D:\Studying\A_Code_Space\networksLAB03\networksLAB03\obj\Debug\net6.0-windows\networksLAB03.Form3.resources
+D:\Studying\A_Code_Space\networksLAB03\networksLAB03\obj\Debug\net6.0-windows\networksLAB03.Form4.resources
+D:\Studying\A_Code_Space\networksLAB03\networksLAB03\obj\Debug\net6.0-windows\networksLAB03.csproj.GenerateResource.cache
+D:\Studying\A_Code_Space\networksLAB03\networksLAB03\obj\Debug\net6.0-windows\networksLAB03.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studying\A_Code_Space\networksLAB03\networksLAB03\obj\Debug\net6.0-windows\networksLAB03.AssemblyInfoInputs.cache
+D:\Studying\A_Code_Space\networksLAB03\networksLAB03\obj\Debug\net6.0-windows\networksLAB03.AssemblyInfo.cs
+D:\Studying\A_Code_Space\networksLAB03\networksLAB03\obj\Debug\net6.0-windows\networksLAB03.csproj.CoreCompileInputs.cache
+D:\Studying\A_Code_Space\networksLAB03\networksLAB03\obj\Debug\net6.0-windows\networksLAB03.dll
+D:\Studying\A_Code_Space\networksLAB03\networksLAB03\obj\Debug\net6.0-windows\refint\networksLAB03.dll
+D:\Studying\A_Code_Space\networksLAB03\networksLAB03\obj\Debug\net6.0-windows\networksLAB03.pdb
+D:\Studying\A_Code_Space\networksLAB03\networksLAB03\obj\Debug\net6.0-windows\networksLAB03.genruntimeconfig.cache
+D:\Studying\A_Code_Space\networksLAB03\networksLAB03\obj\Debug\net6.0-windows\ref\networksLAB03.dll
+D:\Studying\Networks programming\NetworksProgramming\Csharp_networks_LAB03\networksLAB03\obj\Debug\net6.0-windows\networksLAB03.csproj.AssemblyReference.cache
+D:\Studying\Networks programming\NetworksProgramming\Csharp_networks_LAB03\networksLAB03\obj\Debug\net6.0-windows\networksLAB03.Form1.resources
+D:\Studying\Networks programming\NetworksProgramming\Csharp_networks_LAB03\networksLAB03\obj\Debug\net6.0-windows\networksLAB03.Form2.resources
+D:\Studying\Networks programming\NetworksProgramming\Csharp_networks_LAB03\networksLAB03\obj\Debug\net6.0-windows\networksLAB03.Form3.resources
+D:\Studying\Networks programming\NetworksProgramming\Csharp_networks_LAB03\networksLAB03\obj\Debug\net6.0-windows\networksLAB03.Form4.resources
+D:\Studying\Networks programming\NetworksProgramming\Csharp_networks_LAB03\networksLAB03\obj\Debug\net6.0-windows\networksLAB03.csproj.GenerateResource.cache
+D:\Studying\Networks programming\NetworksProgramming\Csharp_networks_LAB03\networksLAB03\obj\Debug\net6.0-windows\networksLAB03.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studying\Networks programming\NetworksProgramming\Csharp_networks_LAB03\networksLAB03\obj\Debug\net6.0-windows\networksLAB03.AssemblyInfoInputs.cache
+D:\Studying\Networks programming\NetworksProgramming\Csharp_networks_LAB03\networksLAB03\obj\Debug\net6.0-windows\networksLAB03.AssemblyInfo.cs
+D:\Studying\Networks programming\NetworksProgramming\Csharp_networks_LAB03\networksLAB03\obj\Debug\net6.0-windows\networksLAB03.csproj.CoreCompileInputs.cache
+D:\Studying\Networks programming\NetworksProgramming\Csharp_networks_LAB03\networksLAB03\obj\Debug\net6.0-windows\networksLAB03.dll
+D:\Studying\Networks programming\NetworksProgramming\Csharp_networks_LAB03\networksLAB03\obj\Debug\net6.0-windows\refint\networksLAB03.dll
+D:\Studying\Networks programming\NetworksProgramming\Csharp_networks_LAB03\networksLAB03\obj\Debug\net6.0-windows\networksLAB03.pdb
